@@ -1,0 +1,1 @@
+data:image/svg+xml;charset=utf8,%3Csvg id='Layer_1' data-name='Layer 1' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 872.37 190.02'%3E%3Ctitle%3Eminus%3C/title%3E%3Crect x='444.99' y='103.81' width='190.02' height='872.37' transform='translate(-103.81 635.01) rotate(-90)'/%3E%3C/svg%3E

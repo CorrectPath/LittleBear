@@ -1,0 +1,26 @@
+/* 配色方案：红石 */
+
+:root {
+    --basalt-primary-color: 20,20,20;
+    --basalt-secondary-color: 32,29,28;
+    --basalt-tertiary-color: 40,39,38;
+    --basalt-main-text-color: 254,254,254;
+    --basalt-overtone: 254,254,254;
+    --basalt-undertone: 202,20,20;
+ 
+    --basalt-bright-element-color: 255,20,20;
+    --basalt-dark-element-color: 144,20,20;
+    --basalt-darker-element-color: 202,50,50;
+    --basalt-alternate-color: 132,132,20;
+    --basalt-positive-color: 24,163,20;
+    --basalt-negative-color: 255,48,48;
+    --basalt-sub-text-color: 162,154,155;
+
+    --header-title-color: var(--main-text-color);
+    --header-subtitle-color: var(--main-text-color);
+
+    --top-bar-link-color: var(--basalt-overtone);
+
+    --UI-title-color: var(--basalt-darker-element-color);
+    --UI-title-background-color: var(--basalt-secondary-color);
+}

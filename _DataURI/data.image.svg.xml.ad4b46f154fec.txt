@@ -1,0 +1,1 @@
+data:image/svg+xml;charset=utf8,%3Csvg id='Layer_1' data-name='Layer 1' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 779.53 779.53'%3E%3Ctitle%3Ecancel-vote%3C/title%3E%3Cpolygon points='779.53 665.37 503.93 389.77 779.53 114.17 665.37 0 389.77 275.6 114.17 0 0 114.17 275.6 389.77 0 665.37 114.17 779.53 389.77 503.93 665.37 779.53 779.53 665.37'/%3E%3C/svg%3E
